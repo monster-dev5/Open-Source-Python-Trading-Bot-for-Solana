@@ -78,3 +78,5 @@ And if you have some question about this project, feel free reach out.
 ```
 6XeQkUDZdsGsKBrhGWRuweHu4nbcv23t8r8vPt5xEsMv
 ```
+
+This project was protected by core S.Team.
